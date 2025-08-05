@@ -1,0 +1,16 @@
+# Логи
+bot.log
+
+# Виртуальное окружение
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Конфигурация
+config.py
+*.env
+
+# Системные файлы
+.DS_Store
+Thumbs.db
