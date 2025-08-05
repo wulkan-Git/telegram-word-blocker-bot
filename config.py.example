@@ -1,0 +1,10 @@
+# config.py.example
+
+# Токен от @BotFather
+TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+
+# ID администраторов (можно узнать через @userinfobot)
+ADMIN_IDS = [123456789]  # Заменить на настоящие ID
+
+# ID пользователей, которых НЕЛЬЗЯ банить
+WHITELISTED_USER_IDS = [987654321]
